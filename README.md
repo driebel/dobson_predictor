@@ -11,7 +11,7 @@ On the upper left side of the window, enter the year of the observations you wou
 
 Below the year entry field, a series of checkboxes allows you to select individual months, or to calculate an entire winter's schedule at once.
 
-The right side of the window allows you to specify the format of the output.  Select whether you would like the results displayed in UTC or local station (NZ) time.  Yes, The program automatically handles daylight savings time if asking for results in station time.  Next choose whether you would like the results saved to a text file on the Desktop or simply displayed in the GUI window.  If you save the results to a file, it  will be called dobson_window_<month>_<year>.txt if only a single month is calculated, or dobson_window_winter_<year>.txt if more than one month is selected.
+The right side of the window allows you to specify the format of the output.  Select whether you would like the results displayed in UTC or local station (NZ) time.  Yes, The program automatically handles daylight savings time if asking for results in station time.  Next choose whether you would like the results saved to a text file on the Desktop or simply displayed in the GUI window.  If you save the results to a file, it  will be called dobson_window_(month)_(year).txt if only a single month is calculated, or dobson_window_winter_(year).txt if more than one month is selected.
 
 Once you have specified your query, click the "Go!" button to calculate the Dobson observation schedule for the chosen period.  The program takes about a second to generate a single month, and about 3-4 seconds to do an entire winter.
 
