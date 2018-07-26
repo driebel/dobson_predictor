@@ -4,7 +4,7 @@ This is the dobson observation program I wrote at pole
 
 Instructions for Dobson Predictor Program
 
-Author: David Riebel (riebel.d@gmail.com) Winterover 2017
+Author: David Riebel Winterover 2017
 
 This is a simple program which generates basic text calendars for performing lunar Dobson observations at the NOAA Atmospheric Research Observatory, South Pole, Antarctica.  Lunar Dobsons can only be performed when the moon is bright (> 50%), above the minimum observation altitude (10 degrees), and visible from the windows in the Dobson room of ARO (azimuth between grid 250 and 140 degrees).  The time when all of those conditions are met varies from month to month.  This program allows the observer to determine the schedule of observation windows for a given month or an entire winter season all at once.
 
