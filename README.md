@@ -1,7 +1,4 @@
 # dobson_predictor
-This is the dobson observation program I wrote at pole
-
-
 Instructions for Dobson Predictor Program
 
 Author: David Riebel Winterover 2017
